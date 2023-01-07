@@ -1,4 +1,4 @@
-<h2 align="center">I DONT KNOW WHAT I AM DOING! I AM LOST! Whatever my names is Furkan.</h2>
+<h2 align="center">I DONT KNOW WHAT I AM DOING! I AM LOST! Whatever my name is Furkan.</h2>
 
 ###
 
